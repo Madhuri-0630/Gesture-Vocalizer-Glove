@@ -1,0 +1,6 @@
+ESP32 Dev Board
+Flex Sensors (5)
+MPU6050 Sensor
+Zero PCB
+Jumper Wires
+Fabric Glove
